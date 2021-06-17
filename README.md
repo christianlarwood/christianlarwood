@@ -1,7 +1,7 @@
 ### Hi there! I'm Christian 🚴‍♂️
 
-💻 Software Engineer with several years of experience in both JavaScript and Ruby ecosystems.
-⚡ Co-Creator of [Jolt](https://jolt-framework.github.io/), an open-source framework for developing, deploying, and managing JAMstack + Serverless applications.
+- 💻 Software Engineer with several years of experience in both JavaScript and Ruby ecosystems.
+- ⚡ Co-Creator of [Jolt](https://jolt-framework.github.io/), an open-source framework for developing, deploying, and managing JAMstack + Serverless applications.
 
 
 
