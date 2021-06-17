@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! I'm Christian 🚴‍♂️
+
+💻 Software Engineer with several years of experience in both JavaScript and Ruby ecosystems.
+⚡ Co-Creator of [Jolt](https://jolt-framework.github.io/), an open-source framework for developing, deploying, and managing JAMstack + Serverless applications.
+
+
 
 <!--
 **christianlarwood/christianlarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
