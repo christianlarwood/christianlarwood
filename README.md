@@ -1,6 +1,7 @@
 ### Hi there! I'm Christian 🚴‍♂️
 
-- 💻 Software Engineer with several years of experience in both JavaScript and Ruby ecosystems.
+- 💻 Full-stack Software Engineer @IFTTT
+  - JavaScript, React, Ruby, Ruby on Rails, GraphQL
 - ⚡ Co-Creator of [Jolt](https://jolt-framework.github.io/), an open-source framework for developing, deploying, and managing JAMstack + Serverless applications.
 
 
